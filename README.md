@@ -1,4 +1,14 @@
-# YoutubeYapperTrapper Crew
+# YoutubeYapperTrapper Crew V2
+
+#### New improved YYT
+1. **rewrote **
+    - agents.yaml
+    - tasks.yaml
+    - custom_tool.py
+    - crew.py
+    - main.py
+
+-- dt 15 May 2024 --
 
 Welcome to the YoutubeYapperTrapper Crew project, powered by [CrewAI](https://crewai.com) + [AgentOps for observability](https://www.agentops.ai/) + [YouTube Data API](https://developers.google.com/youtube/v3/docs/comments/list). This project allows agents to take a given YouTube URL, extracts all the comments, and generates a final report with insights to inform better content creation.
 

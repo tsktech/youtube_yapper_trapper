@@ -1,4 +1,4 @@
-#### new improved YYT
+#### New improved YYT
 1. **rewrote **
     - agents.yaml
     - tasks.yaml
